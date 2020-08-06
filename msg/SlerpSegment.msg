@@ -1,0 +1,3 @@
+duration duration
+geometry_msgs/Quaternion start
+geometry_msgs/Quaternion end

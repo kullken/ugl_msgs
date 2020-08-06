@@ -1,0 +1,2 @@
+std_msgs/Header header
+ugl_msgs/SlerpSegment segment

@@ -1,0 +1,3 @@
+std_msgs/Header header
+ugl_msgs/BezierSequence linear
+ugl_msgs/SlerpSequence angular
